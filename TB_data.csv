@@ -1,0 +1,355 @@
+_id,Year,Category,Strata,Cases,Population,"Rate per 100,000 population"
+1,2005,Total,All cases,2897,35985582,8.1
+2,2006,Total,All cases,2776,36246822,7.7
+3,2007,Total,All cases,2722,36552529,7.4
+4,2008,Total,All cases,2695,36856222,7.3
+5,2009,Total,All cases,2466,37077204,6.7
+6,2010,Total,All cases,2323,37363368,6.2
+7,2011,Total,All cases,2320,37703593,6.2
+8,2012,Total,All cases,2184,38055785,5.7
+9,2013,Total,All cases,2162,38342642,5.6
+10,2014,Total,All cases,2130,38644802,5.5
+11,2015,Total,All cases,2131,38913507,5.5
+12,2016,Total,All cases,2059,39127855,5.3
+13,2017,Total,All cases,2057,39328926,5.2
+14,2018,Total,All cases,2096,39476064,5.3
+15,2019,Total,All cases,2110,39529566,5.3
+16,2020,Total,All cases,1703,39541722,4.3
+17,2021,Total,All cases,1749,39246702,4.5
+18,2022,Total,All cases,1842,39146273,4.7
+19,2005,Race/ethnicity,white,267,15716066,1.7
+20,2005,Race/ethnicity,black,224,2220269,10.1
+21,2005,Race/ethnicity,hispanic,1127,12667790,8.9
+22,2005,Race/ethnicity,asian,1253,4314290,29
+23,2005,Race/ethnicity,amerind/natalask,4,171253,
+24,2005,Race/ethnicity,natHW/PacIsl,12,121791,9.9
+25,2005,Race/ethnicity,multirace,6,774123,0.8
+26,2005,Race/ethnicity,unknown,4,,
+27,2006,Race/ethnicity,white,267,15625359,1.7
+28,2006,Race/ethnicity,black,207,2216691,9.3
+29,2006,Race/ethnicity,hispanic,1066,12923558,8.2
+30,2006,Race/ethnicity,asian,1207,4387101,27.5
+31,2006,Race/ethnicity,amerind/natalask,8,170429,4.7
+32,2006,Race/ethnicity,natHW/PacIsl,11,123590,8.9
+33,2006,Race/ethnicity,multirace,6,800094,0.7
+34,2006,Race/ethnicity,unknown,4,,
+35,2007,Race/ethnicity,white,235,15556795,1.5
+36,2007,Race/ethnicity,black,216,2216181,9.7
+37,2007,Race/ethnicity,hispanic,995,13185607,7.5
+38,2007,Race/ethnicity,asian,1240,4471976,27.7
+39,2007,Race/ethnicity,amerind/natalask,6,170108,3.5
+40,2007,Race/ethnicity,natHW/PacIsl,17,125647,13.5
+41,2007,Race/ethnicity,multirace,4,826214,
+42,2007,Race/ethnicity,unknown,9,,
+43,2008,Race/ethnicity,white,258,15487390,1.7
+44,2008,Race/ethnicity,black,207,2217102,9.3
+45,2008,Race/ethnicity,hispanic,1058,13443156,7.9
+46,2008,Race/ethnicity,asian,1143,4560822,25.1
+47,2008,Race/ethnicity,amerind/natalask,9,169713,5.3
+48,2008,Race/ethnicity,natHW/PacIsl,13,127596,10.2
+49,2008,Race/ethnicity,multirace,6,850443,0.7
+50,2008,Race/ethnicity,unknown,1,,
+51,2009,Race/ethnicity,white,216,15251448,1.4
+52,2009,Race/ethnicity,black,188,2205579,8.5
+53,2009,Race/ethnicity,hispanic,913,13792550,6.6
+54,2009,Race/ethnicity,asian,1119,4642697,24.1
+55,2009,Race/ethnicity,amerind/natalask,3,168736,
+56,2009,Race/ethnicity,natHW/PacIsl,13,129446,10
+57,2009,Race/ethnicity,multirace,7,886747,0.8
+58,2009,Race/ethnicity,unknown,7,,
+59,2010,Race/ethnicity,white,184,15050147,1.2
+60,2010,Race/ethnicity,black,151,2192807,6.9
+61,2010,Race/ethnicity,hispanic,872,14071306,6.2
+62,2010,Race/ethnicity,asian,1097,4835369,22.7
+63,2010,Race/ethnicity,amerind/natalask,1,165599,
+64,2010,Race/ethnicity,natHW/PacIsl,14,132919,10.5
+65,2010,Race/ethnicity,multirace,4,915221,
+66,2011,Race/ethnicity,white,191,15088385,1.3
+67,2011,Race/ethnicity,black,138,2204819,6.3
+68,2011,Race/ethnicity,hispanic,850,14289592,5.9
+69,2011,Race/ethnicity,asian,1106,4885148,22.6
+70,2011,Race/ethnicity,amerind/natalask,4,166903,
+71,2011,Race/ethnicity,natHW/PacIsl,25,134495,18.6
+72,2011,Race/ethnicity,multirace,6,934251,0.6
+73,2012,Race/ethnicity,white,177,15132794,1.2
+74,2012,Race/ethnicity,black,137,2215852,6.2
+75,2012,Race/ethnicity,hispanic,817,14505336,5.6
+76,2012,Race/ethnicity,asian,1027,4943480,20.8
+77,2012,Race/ethnicity,amerind/natalask,6,167722,3.6
+78,2012,Race/ethnicity,natHW/PacIsl,14,136112,10.3
+79,2012,Race/ethnicity,multirace,6,954490,0.6
+80,2013,Race/ethnicity,white,176,15153856,1.2
+81,2013,Race/ethnicity,black,132,2226419,5.9
+82,2013,Race/ethnicity,hispanic,784,14689377,5.3
+83,2013,Race/ethnicity,asian,1052,4993849,21.1
+84,2013,Race/ethnicity,amerind/natalask,3,168455,
+85,2013,Race/ethnicity,natHW/PacIsl,7,137387,5.1
+86,2013,Race/ethnicity,multirace,8,973300,0.8
+87,2014,Race/ethnicity,white,156,15184452,1
+88,2014,Race/ethnicity,black,117,2238225,5.2
+89,2014,Race/ethnicity,hispanic,763,14875325,5.1
+90,2014,Race/ethnicity,asian,1073,5045636,21.3
+91,2014,Race/ethnicity,amerind/natalask,3,169344,
+92,2014,Race/ethnicity,natHW/PacIsl,11,138703,7.9
+93,2014,Race/ethnicity,multirace,6,993116,0.6
+94,2014,Race/ethnicity,unknown,1,,
+95,2015,Race/ethnicity,white,132,15199263,0.9
+96,2015,Race/ethnicity,black,98,2244683,4.4
+97,2015,Race/ethnicity,hispanic,762,15051452,5.1
+98,2015,Race/ethnicity,asian,1127,5096207,22.1
+99,2015,Race/ethnicity,amerind/natalask,1,169929,
+100,2015,Race/ethnicity,natHW/PacIsl,10,139978,7.1
+101,2015,Race/ethnicity,multirace,1,1011994,
+102,2016,Race/ethnicity,white,143,15199544,0.9
+103,2016,Race/ethnicity,black,104,2249893,4.6
+104,2016,Race/ethnicity,hispanic,703,15204696,4.6
+105,2016,Race/ethnicity,asian,1082,5132792,21.1
+106,2016,Race/ethnicity,amerind/natalask,5,170435,2.9
+107,2016,Race/ethnicity,natHW/PacIsl,14,140882,9.9
+108,2016,Race/ethnicity,multirace,7,1029614,0.7
+109,2016,Race/ethnicity,unknown,1,,
+110,2017,Race/ethnicity,white,106,15195592,0.7
+111,2017,Race/ethnicity,black,105,2254099,4.7
+112,2017,Race/ethnicity,hispanic,728,15351298,4.7
+113,2017,Race/ethnicity,asian,1103,5168676,21.3
+114,2017,Race/ethnicity,amerind/natalask,1,171002,
+115,2017,Race/ethnicity,natHW/PacIsl,12,141868,8.5
+116,2017,Race/ethnicity,multirace,2,1046391,
+117,2018,Race/ethnicity,white,128,15175176,0.8
+118,2018,Race/ethnicity,black,90,2256725,4
+119,2018,Race/ethnicity,hispanic,739,15469873,4.8
+120,2018,Race/ethnicity,asian,1114,5197477,21.4
+121,2018,Race/ethnicity,amerind/natalask,,171284,
+122,2018,Race/ethnicity,natHW/PacIsl,19,142461,13.3
+123,2018,Race/ethnicity,multirace,6,1063068,0.6
+124,2019,Race/ethnicity,white,130,15141305,0.9
+125,2019,Race/ethnicity,black,91,2264828,4
+126,2019,Race/ethnicity,hispanic,820,15538301,5.3
+127,2019,Race/ethnicity,asian,1055,5193770,20.3
+128,2019,Race/ethnicity,amerind/natalask,1,171563,
+129,2019,Race/ethnicity,natHW/PacIsl,11,142636,7.7
+130,2019,Race/ethnicity,multirace,2,1077162,
+131,2020,Race/ethnicity,white,108,13950565,0.8
+132,2020,Race/ethnicity,black,86,2215563,3.9
+133,2020,Race/ethnicity,hispanic,611,15796329,3.9
+134,2020,Race/ethnicity,asian,883,6095065,14.5
+135,2020,Race/ethnicity,amerind/natalask,1,160820,
+136,2020,Race/ethnicity,natHW/PacIsl,10,147370,6.8
+137,2020,Race/ethnicity,multirace,4,1176010,
+138,2021,Race/ethnicity,white,94,13845452,0.7
+139,2021,Race/ethnicity,black,63,2199467,2.9
+140,2021,Race/ethnicity,hispanic,708,15695756,4.5
+141,2021,Race/ethnicity,asian,868,6033197,14.4
+142,2021,Race/ethnicity,amerind/natalask,5,159874,3.1
+143,2021,Race/ethnicity,natHW/PacIsl,5,146074,3.4
+144,2021,Race/ethnicity,multirace,3,1166883,
+145,2021,Race/ethnicity,unknown,3,,
+146,2022,Race/ethnicity,white,84,13814748,0.6
+147,2022,Race/ethnicity,black,62,2191533,2.8
+148,2022,Race/ethnicity,hispanic,749,15661416,4.8
+149,2022,Race/ethnicity,asian,911,6009464,15.2
+150,2022,Race/ethnicity,amerind/natalask,4,159711,
+151,2022,Race/ethnicity,natHW/PacIsl,11,145719,7.5
+152,2022,Race/ethnicity,other,14,,
+153,2022,Race/ethnicity,multirace,4,1163682,
+154,2022,Race/ethnicity,unknown,3,,
+155,2005,Age group,0-4,85,2589301,3.3
+156,2005,Age group,45426,66,5361526,1.2
+157,2005,Age group,15-24,281,5350616,5.3
+158,2005,Age group,25-44,916,10621621,8.6
+159,2005,Age group,45-64,846,8237571,10.3
+160,2005,Age group,65,703,3824947,18.4
+161,2006,Age group,0-4,91,2582130,3.5
+162,2006,Age group,45426,45,5328339,0.8
+163,2006,Age group,15-24,321,5416747,5.9
+164,2006,Age group,25-44,855,10579211,8.1
+165,2006,Age group,45-64,790,8464366,9.3
+166,2006,Age group,65,674,3876029,17.4
+167,2007,Age group,0-4,89,2581885,3.4
+168,2007,Age group,45426,46,5295726,0.9
+169,2007,Age group,15-24,293,5483979,5.3
+170,2007,Age group,25-44,786,10567468,7.4
+171,2007,Age group,45-64,860,8685619,9.9
+172,2007,Age group,65,648,3937852,16.5
+173,2008,Age group,0-4,88,2585622,3.4
+174,2008,Age group,45426,66,5249509,1.3
+175,2008,Age group,15-24,279,5534642,5
+176,2008,Age group,25-44,813,10578171,7.7
+177,2008,Age group,45-64,828,8889679,9.3
+178,2008,Age group,65,621,4018600,15.5
+179,2009,Age group,0-4,70,2549345,2.7
+180,2009,Age group,45426,55,5106833,1.1
+181,2009,Age group,15-24,237,5529978,4.3
+182,2009,Age group,25-44,736,10500937,7
+183,2009,Age group,45-64,740,9198614,8
+184,2009,Age group,65,628,4191497,15
+185,2010,Age group,0-4,55,2535968,2.2
+186,2010,Age group,45426,46,5103768,0.9
+187,2010,Age group,15-24,216,5583616,3.9
+188,2010,Age group,25-44,680,10519699,6.5
+189,2010,Age group,45-64,737,9336213,7.9
+190,2010,Age group,65,589,4284104,13.7
+191,2011,Age group,0-4,82,2541979,3.2
+192,2011,Age group,45426,46,5094719,0.9
+193,2011,Age group,15-24,179,5642195,3.2
+194,2011,Age group,25-44,625,10519402,5.9
+195,2011,Age group,45-64,771,9482039,8.1
+196,2011,Age group,65,617,4423260,13.9
+197,2012,Age group,0-4,48,2526591,1.9
+198,2012,Age group,45426,40,5112200,0.8
+199,2012,Age group,15-24,214,5704891,3.8
+200,2012,Age group,25-44,596,10519075,5.7
+201,2012,Age group,45-64,699,9572119,7.3
+202,2012,Age group,65,587,4620909,12.7
+203,2013,Age group,0-4,58,2507890,2.3
+204,2013,Age group,45426,32,5125971,0.6
+205,2013,Age group,15-24,185,5743673,3.2
+206,2013,Age group,25-44,552,10492337,5.3
+207,2013,Age group,45-64,662,9658619,6.9
+208,2013,Age group,65,673,4814152,14
+209,2014,Age group,0-4,56,2502235,2.2
+210,2014,Age group,45426,33,5127730,0.6
+211,2014,Age group,15-24,187,5787507,3.2
+212,2014,Age group,25-44,529,10452725,5.1
+213,2014,Age group,45-64,657,9760153,6.7
+214,2014,Age group,65,668,5014453,13.3
+215,2015,Age group,0-4,36,2503214,1.4
+216,2015,Age group,45426,32,5121712,0.6
+217,2015,Age group,15-24,186,5804899,3.2
+218,2015,Age group,25-44,507,10385858,4.9
+219,2015,Age group,45-64,691,9876278,7
+220,2015,Age group,65,679,5221547,13
+221,2016,Age group,0-4,34,2477427,1.4
+222,2016,Age group,45426,17,5127211,0.3
+223,2016,Age group,15-24,174,5805170,3
+224,2016,Age group,25-44,505,10345547,4.9
+225,2016,Age group,45-64,646,9958406,6.5
+226,2016,Age group,65,683,5414094,12.6
+227,2017,Age group,0-4,39,2457342,1.6
+228,2017,Age group,45426,39,5130290,0.8
+229,2017,Age group,15-24,162,5763700,2.8
+230,2017,Age group,25-44,492,10351807,4.8
+231,2017,Age group,45-64,654,10009591,6.5
+232,2017,Age group,65,671,5616197,11.9
+233,2018,Age group,0-4,28,2414430,1.2
+234,2018,Age group,45426,37,5124073,0.7
+235,2018,Age group,15-24,173,5731846,3
+236,2018,Age group,25-44,497,10376766,4.8
+237,2018,Age group,45-64,657,10012435,6.6
+238,2018,Age group,65,704,5816514,12.1
+239,2019,Age group,0-4,29,2355841,1.2
+240,2019,Age group,45426,26,5103462,0.5
+241,2019,Age group,15-24,163,5695393,2.9
+242,2019,Age group,25-44,501,10379412,4.8
+243,2019,Age group,45-64,631,9966713,6.3
+244,2019,Age group,65,760,6028746,12.6
+245,2020,Age group,0-4,23,2359882,1
+246,2020,Age group,45426,24,5219058,0.5
+247,2020,Age group,15-24,135,5675378,2.4
+248,2020,Age group,25-44,382,10252445,3.7
+249,2020,Age group,45-64,538,9685099,5.6
+250,2020,Age group,65,601,6349861,9.5
+251,2021,Age group,0-4,24,2284447,1.1
+252,2021,Age group,45426,19,5184546,0.4
+253,2021,Age group,15-24,104,5584722,1.9
+254,2021,Age group,25-44,424,10176544,4.2
+255,2021,Age group,45-64,546,9514002,5.7
+256,2021,Age group,65,632,6502440,9.7
+257,2022,Age group,0-4,26,2242846,1.2
+258,2022,Age group,45426,31,5155611,0.6
+259,2022,Age group,15-24,147,5504566,2.7
+260,2022,Age group,25-44,422,10159721,4.2
+261,2022,Age group,45-64,545,9383346,5.8
+262,2022,Age group,65,671,6700183,10
+263,2005,Sex,Male,1747,17898283,9.8
+264,2005,Sex,Female,1150,18087299,6.4
+265,2006,Sex,Male,1666,18027444,9.2
+266,2006,Sex,Female,1110,18219378,6.1
+267,2007,Sex,Male,1649,18179624,9.1
+268,2007,Sex,Female,1073,18372905,5.8
+269,2008,Sex,Male,1654,18330671,9
+270,2008,Sex,Female,1041,18525551,5.6
+271,2009,Sex,Male,1498,18444224,8.1
+272,2009,Sex,Female,967,18632980,5.2
+273,2009,Sex,Unknown,1,,
+274,2010,Sex,Male,1374,18582184,7.4
+275,2010,Sex,Female,949,18781184,5.1
+276,2011,Sex,Male,1379,18765193,7.3
+277,2011,Sex,Female,941,18938400,5
+278,2012,Sex,Male,1293,18945559,6.8
+279,2012,Sex,Female,891,19110226,4.7
+280,2013,Sex,Male,1319,19100336,6.9
+281,2013,Sex,Female,843,19242306,4.4
+282,2014,Sex,Male,1288,19261310,6.7
+283,2014,Sex,Female,842,19383492,4.3
+284,2015,Sex,Male,1249,19403923,6.4
+285,2015,Sex,Female,882,19509584,4.5
+286,2016,Sex,Male,1280,19517338,6.6
+287,2016,Sex,Female,779,19610517,4
+288,2017,Sex,Male,1276,19622960,6.5
+289,2017,Sex,Female,781,19705966,4
+290,2018,Sex,Male,1277,19702484,6.5
+291,2018,Sex,Female,819,19773580,4.1
+292,2019,Sex,Male,1281,19730809,6.5
+293,2019,Sex,Female,829,19798757,4.2
+294,2020,Sex,Male,1008,19681718,5.1
+295,2020,Sex,Female,695,19860004,3.5
+296,2021,Sex,Male,1098,19523434,5.6
+297,2021,Sex,Female,651,19723268,3.3
+298,2022,Sex,Male,1160,19470256,6
+299,2022,Sex,Female,679,19676017,3.5
+300,2022,Sex,Unknown,3,,
+301,2005,Origin,US-born,653,26161728,2.5
+302,2005,Origin,non-US-born,2228,9823854,22.7
+303,2005,Origin,unknown,16,,
+304,2006,Origin,US-born,635,26421487,2.4
+305,2006,Origin,non-US-born,2128,9825335,21.7
+306,2006,Origin,unknown,13,,
+307,2007,Origin,US-born,595,26538303,2.2
+308,2007,Origin,non-US-born,2107,10014226,21
+309,2007,Origin,unknown,20,,
+310,2008,Origin,US-born,669,26973243,2.5
+311,2008,Origin,non-US-born,2021,9882979,20.4
+312,2008,Origin,unknown,5,,
+313,2009,Origin,US-born,580,27114909,2.1
+314,2009,Origin,non-US-born,1872,9962295,18.8
+315,2009,Origin,unknown,14,,
+316,2010,Origin,US-born,495,27215905,1.8
+317,2010,Origin,non-US-born,1824,10147463,18
+318,2010,Origin,unknown,4,,
+319,2011,Origin,US-born,513,27477745,1.9
+320,2011,Origin,non-US-born,1803,10225848,17.6
+321,2011,Origin,unknown,4,,
+322,2012,Origin,US-born,462,27762718,1.7
+323,2012,Origin,non-US-born,1721,10293067,16.7
+324,2012,Origin,unknown,1,,
+325,2013,Origin,US-born,462,28018816,1.6
+326,2013,Origin,non-US-born,1697,10323826,16.4
+327,2013,Origin,unknown,3,,
+328,2014,Origin,US-born,457,28215793,1.6
+329,2014,Origin,non-US-born,1670,10429009,16
+330,2014,Origin,unknown,3,,
+331,2015,Origin,US-born,404,28299849,1.4
+332,2015,Origin,non-US-born,1722,10613658,16.2
+333,2015,Origin,unknown,5,,
+334,2016,Origin,US-born,384,28480832,1.3
+335,2016,Origin,non-US-born,1670,10647023,15.7
+336,2016,Origin,unknown,5,,
+337,2017,Origin,US-born,367,28763747,1.3
+338,2017,Origin,non-US-born,1685,10565179,15.9
+339,2017,Origin,unknown,5,,
+340,2018,Origin,US-born,360,28888110,1.2
+341,2018,Origin,non-US-born,1735,10587954,16.4
+342,2018,Origin,unknown,1,,
+343,2019,Origin,US-born,375,28969508,1.3
+344,2019,Origin,non-US-born,1729,10560058,16.4
+345,2019,Origin,unknown,6,,
+346,2020,Origin,US-born,275,28978417,0.9
+347,2020,Origin,non-US-born,1420,10563305,13.4
+348,2020,Origin,unknown,8,,
+349,2021,Origin,US-born,308,28776065,1.1
+350,2021,Origin,non-US-born,1429,10470637,13.6
+351,2021,Origin,unknown,12,,
+352,2022,Origin,US-born,310,28699610,1.1
+353,2022,Origin,non-US-born,1527,10446663,14.6
+354,2022,Origin,unknown,5,,
